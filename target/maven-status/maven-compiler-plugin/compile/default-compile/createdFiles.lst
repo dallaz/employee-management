@@ -1,0 +1,6 @@
+com\api\employeemanagement\EmployeeManagementApplication.class
+com\api\employeemanagement\repository\EmployeeRepository.class
+com\api\employeemanagement\service\EmployeeService.class
+com\api\employeemanagement\controller\ClientController.class
+com\api\employeemanagement\dto\ClientDTO.class
+com\api\employeemanagement\models\Employee.class
